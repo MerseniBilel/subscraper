@@ -10,7 +10,7 @@
   <a href="https://github.com/sponsors/m8r0wn">
       <img src="https://img.shields.io/badge/Sponsor-GitHub-green?style=plastic&logo=github"/>
   </a>&nbsp;
-  <a href="https://www.paypal.com/donate?hosted_button_id=68W8UCUF4SMTCn">
+  <a href="https://paypal.me/m8r0wn">
       <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=plastic&logo=paypal"/>
   </a>&nbsp;
 </p>
