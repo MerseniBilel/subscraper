@@ -1,6 +1,6 @@
 # SubScraper
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/m8r0wn/subscraper/tree/master/subscraper/modules">
     <img src="https://img.shields.io/badge/Call%20for%20Modules-OPEN-green?style=plastic"/>
   </a>&nbsp;
@@ -10,8 +10,6 @@
   <a href="https://github.com/sponsors/m8r0wn">
       <img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/>
   </a>
-  <br>
-  <img src="https://user-images.githubusercontent.com/13889819/127380160-14696b6f-43dc-42f4-adf6-21ef8d26c90f.png">
 </p>
 
 SubScraper is a subdomain enumeration tool that uses a variety of techniques to find potential subdomains of a given target. This is especially helpful during penetration testing or bug bounty hunting to uncover additional attack surfaces. Depending on the the CMD args used, SubScraper can perform DNS lookups and HTTP/S requests during the enumeration process to help prioritize targets and aid in potential next steps.
@@ -24,7 +22,7 @@ SubScraper is a subdomain enumeration tool that uses a variety of techniques to 
 - Multi-threaded for additional speed.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/13889819/127380132-4b36df57-fe9e-4e59-b8fe-c91fa0b97fbc.png">
+  <img src="https://user-images.githubusercontent.com/13889819/59461972-a287ff80-8df0-11e9-9971-fb1cdf39471f.png">
 </p>
 
 #### Enumeration Techniques
